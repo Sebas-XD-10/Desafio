@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport">
+        <title>Encriptador Sebas Gavilanes M.</title>
+        <link rel="stylesheet" href="style-reset.css">
+        <link rel="stylesheet" href="style-index.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap" rel="stylesheet">
+    </head>
+
+    <script src="script.js"></script>
+    
+    <body>
+        <div class="container">
+            <div class="logo">
+                <img class="logo-img" src="imagenes/Logo.png" alt="logo-alura">
+                <h1 class="titulo">Encriptador de Mensajes</h1>
+            </div>
+
+            <div class="left">
+                <input class="text-input" id="inputTexto" type="text" placeholder="Ingrese el Texto Aqui:">
+            </div>
+            
+            <div class="right">
+                <img id="personaje" src="imagenes/personaje.png" alt="imagen-personaje">
+                <h1 id="texto">Ningún Mensaje fue Encontado</h1>
+                <textarea id="texto2" name="name" rows="12" cols="8">Texto que desee Encriptar o Desencriptar.</textarea>
+                <button type="button" name="button" id="btn-copiar" onclick="btnCopy()">Copiar</button>
+            </div>
+
+            <div class="left-button">
+                <p class="aviso">&#128065 Solo letras Minúsculas y Sin Acento</p>
+                <button type="button" id="btn-encriptar" onclick="btnEncriptar()">Encriptar</button>
+                <button type="button" id="btn-desencriptar" onclick="btnDesencriptar()">Desencriptar</button>
+            </div>
+            
+        </div>
+    </body>
+</html>
+

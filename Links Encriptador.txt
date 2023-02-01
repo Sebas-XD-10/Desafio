@@ -1,0 +1,17 @@
+Links Encriptador
+
+Encriptador Solución
+https://www.youtube.com/watch?v=oQgt8BF2wAg 
+https://www.youtube.com/watch?v=DVjp-TJihAM
+
+Solucion Youtube
+https://www.youtube.com/watch?v=uKJQ_9hdNQg&list=PLly5egcQSlfm-CIR4LOdkAIipoe5Jid67
+
+Información
+https://www.aluracursos.com/challenges/challenge-one-logica/sprint01-construye-un-encriptador-texto-con-javascript
+
+Figma
+https://www.figma.com/file/FGuynN0ZJjO3Q0qU2v9vY8/Encriptador-Sebas?t=7ghnpsTlftVqe5X0-0
+
+Donde Subir
+https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp
